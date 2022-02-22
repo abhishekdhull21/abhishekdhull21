@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Abhishek Singh Dhull
+- Website Coordinator of Training & Placement Cell of GJUST, Hisar
 - 👀 I’m interested in learning and implementation new technology
 ## Projects
    - SpicyRasoi - Restaurant Billing System
